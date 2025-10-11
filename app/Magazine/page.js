@@ -78,7 +78,7 @@ export default function Magazine() {
                         Lorem, ipsum dolor sit amet consectetur adipisicing elit. Doloremque, magni.
                       </div>
                       <h6>
-                        <Link href="/pdfs/Oct.pdf" target="_blank" download>
+                        <Link href="/pdfs/MAG - OCT 2025.pdf" target="_blank" download>
                           Download PDF
                         </Link>
                       </h6>
@@ -86,7 +86,7 @@ export default function Magazine() {
                   </div>
                   <div className="image">
                     <Link href="/pdfs/Oct.pdf" target="_blank">
-                      <img src="assets/images/resource/staff-6.jpg" alt="October Magazine" />
+                      <img src="assets/images/resource/staff-8.jpg" alt="October Magazine" />
                     </Link>
                   </div>
                 </div>
