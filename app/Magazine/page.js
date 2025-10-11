@@ -79,7 +79,7 @@ export default function Magazine() {
                     </div>
                   </div>
                   <div className="image">
-                    <Link href="/pdfs/Oct.pdf" target="_blank">
+                    <Link href="/pdfs/MAG - OCT 2025.pdf" target="_blank">
                       <img src="assets/images/resource/staff-6.jpg" alt="October Magazine" />
                     </Link>
                   </div>
