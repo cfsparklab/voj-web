@@ -25,9 +25,7 @@ export default function Magazine() {
                     {/* <div className="menu-title">August Edition</div> */}
                     <h4>August Edition</h4>
                     <div className="menu-item">
-                      <div className="sub-title">
-                       Lorem, ipsum dolor sit amet consectetur adipisicing elit. Corporis, qui.
-                      </div>
+                      
                       <h6>
                         <Link href="/pdfs/Aug.pdf" target="_blank" download>
                           Download PDF
@@ -50,9 +48,7 @@ export default function Magazine() {
                     {/* <div className="menu-title">September Edition</div> */}
                     <h4>September Edition</h4>
                     <div className="menu-item">
-                      <div className="sub-title">
-                       Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nulla, ut.
-                      </div>
+                    
                       <h6>
                         <Link href="/pdfs/Sep.pdf" target="_blank" download>
                           Download PDF
@@ -74,9 +70,7 @@ export default function Magazine() {
                   <div className="content">
                     <h4>October Edition</h4>
                     <div className="menu-item">
-                      <div className="sub-title">
-                        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Doloremque, magni.
-                      </div>
+                      
                       <h6>
                         <Link href="/pdfs/MAG - OCT 2025.pdf" target="_blank" download>
                           Download PDF
