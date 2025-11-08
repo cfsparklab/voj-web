@@ -85,6 +85,26 @@ export default function Magazine() {
                   </div>
                 </div>
               </div>
+{/* Magazine Block - November */}
+<div className="menu-block-three col-lg-4 col-md-6 col-sm-12">
+  <div className="inner-box wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
+    <div className="content">
+      <h4>November Edition</h4>
+      <div className="menu-item">
+        <h6>
+          <Link href="/pdfs/MAG - NOV 2025.pdf" target="_blank" download>
+            Download PDF
+          </Link>
+        </h6>
+      </div>
+    </div>
+    <div className="image">
+      <Link href="/pdfs/MAG - NOV 2025.pdf" target="_blank">
+        <img src="assets/images/resource/nov.jpg" alt="November Magazine" />
+      </Link>
+    </div>
+  </div>
+</div>
 
             </div>
           </div>
